@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Thomas Shaffer
 
-You can use the [editor on GitHub](https://github.com/tjshaffer21/tjshaffer21.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Education: B.S. in Computer Science - Software/Scientific Applications
+* Languages: C/C++, Python, Common Lisp
+* OS: Linux
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+#### TextGen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Python 3
+* Text generation using Markov chains.
+* [Github](https://github.com/tjshaffer21/TextGen)
 
-```markdown
-Syntax highlighted code block
+#### LSystem
 
-# Header 1
-## Header 2
-### Header 3
+* Common Lisp (CCL), OpenGL
+* L-System implementation 
+* [Github](https://github.com/tjshaffer21/LSystem)
 
-- Bulleted
-- List
+#### tag_reader script
 
-1. Numbered
-2. List
+* Python
+* A script that reads ID3 tags from MP3 files.
+* [Github](https://github.com/tjshaffer21/Scripts/blob/master/tag_reader.py)
 
-**Bold** and _Italic_ and `Code` text
+#### Haunted Maze
 
-[Link](url) and ![Image](src)
-```
+* Lua, Love
+* An Pacman clone prototype.
+* [Github](https://github.com/tjshaffer21/HauntedMaze)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### pygamegui
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tjshaffer21/tjshaffer21.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Python, pygame
+* Higher level objects around pygame objects.
+* [Github](https://github.com/tjshaffer21/pygamegui)
