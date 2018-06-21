@@ -1,0 +1,29 @@
+div#social-id {
+    background-color: #D1D1D1;
+    color: #000000;
+    display: flex;
+    flex-flow: row wrap;    
+}
+
+img#social-img {
+    width: 100px;
+    height: 100px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+img#social-cw {
+    display: flex;
+    flex-flow: row wrap;    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    vertical-align: bottom;
+}
+
+h1#social-header {
+    font: italic bold 30px arial, sans-serif;
+    opacity: 0.50;
+    margin-top: 0px;
+    text-align: left;
+    vertical-align: bottom;
+}
